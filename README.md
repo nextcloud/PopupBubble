@@ -29,7 +29,7 @@ compile 'com.github.nextcloud:PopupBubble:2.0.0'
 
 Positioning of this view can be done according to the need and is based on `MaterialButton`so all themeing/customization is applicable.
 
-#Access the bubble from Java
+# Access the bubble from Java
 
 ```java
 PopupBubble popupBubble = (PopupBubble) findViewById(R.id.popup_bubble);
